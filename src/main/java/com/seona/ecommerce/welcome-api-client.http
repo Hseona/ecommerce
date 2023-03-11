@@ -1,2 +1,18 @@
 GET http://localhost:8080/welcome
 Accept: application/json
+
+## Response
+# http://localhost:8080/welcome
+#
+#HTTP/1.1 200
+#Content-Type: application/json
+#Content-Length: 2
+#Date: Sat, 11 Mar 2023 06:49:06 GMT
+#Keep-Alive: timeout=60
+#Connection: keep-alive
+#
+#hi
+#Response file saved.
+#> 2023-03-11T154906.200.json
+#
+#Response code: 200; Time: 115ms; Content length: 2 bytes
