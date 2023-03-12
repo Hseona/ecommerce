@@ -1,0 +1,11 @@
+server:
+  port: 23312
+
+spring:
+  profiles:
+    active: local
+  thymeleaf:
+    cache: false
+  devtools:
+    livereload:
+      enabled: true
